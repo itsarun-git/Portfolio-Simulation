@@ -1,7 +1,4 @@
-# Portfolio Simulation using Time Series Modeling
-
-## Project Overview
-
+## Portfolio Simulation using Time Series Modeling
 This project simulates the performance of a financial portfolio composed of stocks from major companies including Nvidia (NVDA), Apple (AAPL), Vistra (VST), and MicroStrategy (MSTR). By utilizing time series modeling, the project forecasts stock trends over a five-year period from 2020 to 2025. The aim is to analyze the portfolio's behavior over time and provide insights into stock performance under various market conditions.
 
 Key aspects of this problem include:
