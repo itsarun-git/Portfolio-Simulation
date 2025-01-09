@@ -67,7 +67,7 @@ The simulation involved the following steps:
 
 - This approach allowed us to visualize the performance of the portfolio and compare it to actual stock prices to evaluate the model's effectiveness in simulating real-world scenarios. The graph shows the difference between actual valuation of investment vs the predicted valuation. Over a 1 year period the actual valuation of the $10000 initial investment at end of January 2025 is over $26,000 where as our model predicted the investment would be worth just over $16,000.
 
-![Portfolio Simulation](images/valuation.png)
+![Portfolio Simulation](/valuation.png)
 
 ## Limitations
 While the model accurately captured historical trends and provided reasonable forecasts, it has several limitations:
